@@ -4,7 +4,7 @@ require_once __DIR__ . '/Model/Usuario.php';
 $u = new Usuario();
 
 $u->setNome("Teste MVC");
-$u->setCPF("12345678900");
+$u->setCPF("12345678912");
 $u->setEmail("teste@teste.com");
 $u->setSenha("123");
 
